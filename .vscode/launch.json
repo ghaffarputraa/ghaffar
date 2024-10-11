@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///C:/Users/PC%20B2/Desktop/Ujian%20Praktek%20Pem.%20Dasar%20Semester%20Ganjil%202024/studikasus/New%20folder/Coding%20Ghaffar/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
